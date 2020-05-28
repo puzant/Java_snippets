@@ -30,7 +30,6 @@ public class SnnInput {
       System.out.println("Valid SNN");
     }
 
-
   }
 
 }
